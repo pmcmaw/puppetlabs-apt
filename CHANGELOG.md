@@ -605,5 +605,5 @@ This release includes Ubuntu 12.10 (Quantal) support for PPAs.
 * 87777d8 Typo in README
 * f848bac First commit
 
-
+[4.3.0]:https://github.com/puppetlabs/puppetlabs-apt/compare/4.2.0...4.3.0
 [4.2.0]:https://github.com/puppetlabs/puppetlabs-apt/compare/4.1.0...4.2.0
